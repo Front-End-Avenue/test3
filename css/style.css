@@ -60,6 +60,7 @@ p {
 .logo {
 	float: left;
 	background: url(../images/frontEndLogo.png) no-repeat;
+	background-size: cover;
 }
 .team-name {
 	float: right;
